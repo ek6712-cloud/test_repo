@@ -1,0 +1,41 @@
+🖥️ Languages
+JavaScript (ES6+), TypeScript
+HTML5, CSS3
+Python
+Java
+C
+
+⚛️ Frontend
+React
+Next.js
+Vue.js
+Tailwind CSS
+
+⚙️ Backend
+Node.js (Express 등)
+Prisma (ORM)
+
+🗄️ Database
+MySQL, MariaDB
+SQLite
+Oracle
+
+📱 Mobile / App
+Flutter
+Android (Java/Kotlin)
+
+🛠️ Tools & Environment
+Git / GitHub
+Visual Studio Code, Eclipse, PyCharm
+Prisma Data Platform
+
+
+Lang JavaScript, TypeScript, HTML5, CSS3, Python, Java, C
+Front React, Next.js, Vue.js, Tailwind CSS
+Back Node.js, Prisma (ORM)
+DB MySQL, MariaDB, SQLite, Oracle
+App Flutter, Android(Java)
+
+Tools & Environment Git / GitHub, Visual Studio Code, Eclipse, PyCharm, Prisma Data Platform
+
+이런식으로 내 포트폴리오 스킬을 나열하면 될까?
